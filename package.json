@@ -1,0 +1,14 @@
+{
+  "name": "portfolio",
+  "version": "0.1.0-dev",
+  "license": "MIT",
+  "private": true,
+  "repository": "git@github.com:ramsesDeco/portfolio.git",
+  "author": "Ramses Yael De La Peña Coronado <ramses.deco@gmail.com>",
+  "workspaces": [
+    "packages/*"
+  ],
+  "devDependencies": {
+    "lerna": "3.22.1"
+  }
+}
